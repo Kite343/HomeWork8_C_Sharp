@@ -41,7 +41,7 @@ introduction to programming languages C# HomeWork8
 
 Программа считает сумму элементов в каждой строке и выдаёт номер строки с наименьшей суммой элементов: 1 строка
 
-##Задача 58
+## Задача 58
 
 ### Task3
 
@@ -58,7 +58,7 @@ introduction to programming languages C# HomeWork8
 
 15 18
 
-##Задача 60
+## Задача 60
 
 ### Task4
 
@@ -74,7 +74,7 @@ introduction to programming languages C# HomeWork8
 
 26(1,1,0) 55(1,1,1)
 
-##Доп. задача 62
+## Доп. задача 62
 
 ### Task5
 
